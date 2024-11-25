@@ -1,4 +1,5 @@
 ﻿title,longLink,shortLink,type
+List of files,https://raw.githubusercontent.com/cbs-news-data/tv-live-graphics-links/refs/heads/main/links.xml,https://bit.ly/3ZkVTn0,list_of_files
 Price of eggs,https://raw.githubusercontent.com/cbs-news-data/price_tracker/refs/heads/main/data/xml/prices_eggs.xml,https://bit.ly/3AQtwDS,bar
 Weekly gas prices,https://raw.githubusercontent.com/cbs-news-data/price_tracker/refs/heads/main/data/xml/weekly_gas_prices.xml,https://bit.ly/3ZaHBoZ,line
 "West Nile virus reported cases, 2024",https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/west-nile-by-state_binned.xml,https://bit.ly/415j3yW,map

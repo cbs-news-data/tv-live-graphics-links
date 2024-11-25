@@ -2,7 +2,8 @@ library(tidyverse)
 library(stringr)
 library(xml2)
 
-links_df <- read.csv("tv-live-graphics-list.csv")
+links_df <- read.csv("tv-live-graphics-list.csv") %>% 
+  filter(type != "list_of_files")
 
 # Create chart node
 links_xml <- xml_new_root("links")
