@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<links>
+  <dataPoint>
+    <title>Price of eggs</title>
+    <longLink>https://raw.githubusercontent.com/cbs-news-data/price_tracker/refs/heads/main/data/xml/prices_eggs.xml</longLink>
+    <shortLink>https://bit.ly/3AQtwDS</shortLink>
+    <type>bar</type>
+  </dataPoint>
+  <dataPoint>
+    <title>Weekly gas prices</title>
+    <longLink>https://raw.githubusercontent.com/cbs-news-data/price_tracker/refs/heads/main/data/xml/weekly_gas_prices.xml</longLink>
+    <shortLink>https://bit.ly/3ZaHBoZ</shortLink>
+    <type>line</type>
+  </dataPoint>
+  <dataPoint>
+    <title>West Nile virus reported cases, 2024</title>
+    <longLink>https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/west-nile-by-state_binned.xml</longLink>
+    <shortLink>https://bit.ly/415j3yW</shortLink>
+    <type>map</type>
+  </dataPoint>
+</links>
