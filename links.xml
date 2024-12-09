@@ -13,9 +13,21 @@
     <type>line</type>
   </dataPoint>
   <dataPoint>
-    <title>West Nile virus reported cases, 2024</title>
+    <title>West Nile virus reported cases, 2024 (binned)</title>
     <longLink>https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/west-nile-by-state_binned.xml</longLink>
     <shortLink>https://bit.ly/415j3yW</shortLink>
     <type>map</type>
+  </dataPoint>
+  <dataPoint>
+    <title>West Nile virus reported cases, 2024 (gradient/labeled version)</title>
+    <longLink>https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/west-nile-by-state.xml</longLink>
+    <shortLink>https://bit.ly/3OlLwJk</shortLink>
+    <type>map</type>
+  </dataPoint>
+  <dataPoint>
+    <title>Pie chart example</title>
+    <longLink>https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/pie-chart.xml</longLink>
+    <shortLink>https://bit.ly/3Zstr1p</shortLink>
+    <type>pie</type>
   </dataPoint>
 </links>
