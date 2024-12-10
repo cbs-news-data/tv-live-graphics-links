@@ -3,31 +3,26 @@
   <dataPoint>
     <title>Price of eggs</title>
     <longLink>https://raw.githubusercontent.com/cbs-news-data/price_tracker/refs/heads/main/data/xml/prices_eggs.xml</longLink>
-    <shortLink>https://bit.ly/3AQtwDS</shortLink>
     <type>bar</type>
   </dataPoint>
   <dataPoint>
     <title>Weekly gas prices</title>
     <longLink>https://raw.githubusercontent.com/cbs-news-data/price_tracker/refs/heads/main/data/xml/weekly_gas_prices.xml</longLink>
-    <shortLink>https://bit.ly/3ZaHBoZ</shortLink>
     <type>line</type>
   </dataPoint>
   <dataPoint>
     <title>West Nile virus reported cases, 2024 (binned)</title>
-    <longLink>https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/west-nile-by-state_binned.xml</longLink>
-    <shortLink>https://bit.ly/415j3yW</shortLink>
+    <longLink>https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/binned.xml</longLink>
     <type>map</type>
   </dataPoint>
   <dataPoint>
     <title>West Nile virus reported cases, 2024 (gradient/labeled version)</title>
-    <longLink>https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/west-nile-by-state.xml</longLink>
-    <shortLink>https://bit.ly/3OlLwJk</shortLink>
+    <longLink>https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/gradient.xml</longLink>
     <type>map</type>
   </dataPoint>
   <dataPoint>
     <title>Pie chart example</title>
     <longLink>https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/pie-chart.xml</longLink>
-    <shortLink>https://bit.ly/3Zstr1p</shortLink>
     <type>pie</type>
   </dataPoint>
 </links>

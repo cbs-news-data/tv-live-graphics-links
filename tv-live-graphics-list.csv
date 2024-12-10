@@ -1,7 +1,7 @@
-﻿title,longLink,shortLink,type
-List of files,https://raw.githubusercontent.com/cbs-news-data/tv-live-graphics-links/refs/heads/main/links.xml,https://bit.ly/3ZkVTn0,list_of_files
-Price of eggs,https://raw.githubusercontent.com/cbs-news-data/price_tracker/refs/heads/main/data/xml/prices_eggs.xml,https://bit.ly/3AQtwDS,bar
-Weekly gas prices,https://raw.githubusercontent.com/cbs-news-data/price_tracker/refs/heads/main/data/xml/weekly_gas_prices.xml,https://bit.ly/3ZaHBoZ,line
-"West Nile virus reported cases, 2024 (binned)",https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/west-nile-by-state_binned.xml,https://bit.ly/415j3yW,map
-"West Nile virus reported cases, 2024 (gradient/labeled version)",https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/west-nile-by-state.xml,https://bit.ly/3OlLwJk,map
-Pie chart example,https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/pie-chart.xml,https://bit.ly/3Zstr1p,pie
+﻿title,longLink,type
+List of files,https://raw.githubusercontent.com/cbs-news-data/tv-live-graphics-links/refs/heads/main/links.xml,list_of_files
+Price of eggs,https://raw.githubusercontent.com/cbs-news-data/price_tracker/refs/heads/main/data/xml/prices_eggs.xml,bar
+Weekly gas prices,https://raw.githubusercontent.com/cbs-news-data/price_tracker/refs/heads/main/data/xml/weekly_gas_prices.xml,line
+"West Nile virus reported cases, 2024 (binned)",https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/binned.xml,map
+"West Nile virus reported cases, 2024 (gradient/labeled version)",https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/gradient.xml,map
+Pie chart example,https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/pie-chart.xml,pie
