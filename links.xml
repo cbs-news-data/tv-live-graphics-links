@@ -25,4 +25,34 @@
     <longLink>https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/pie-chart.xml</longLink>
     <type>pie</type>
   </dataPoint>
+  <dataPoint>
+    <title>Inflation year-over-year</title>
+    <longLink>https://cbs-news-data.github.io/BLS-data/data/inflation_yoy.xml</longLink>
+    <type>line</type>
+  </dataPoint>
+  <dataPoint>
+    <title>Monthly unemployment rate</title>
+    <longLink>https://cbs-news-data.github.io/BLS-data/data/unemployment_rate.xml</longLink>
+    <type>line</type>
+  </dataPoint>
+  <dataPoint>
+    <title>Monthly changes in employment</title>
+    <longLink>https://cbs-news-data.github.io/BLS-data/data/monthly_employment_change.xml</longLink>
+    <type>bar</type>
+  </dataPoint>
+  <dataPoint>
+    <title>Historical illegal crossings along the U.S. southern border since 2022</title>
+    <longLink>https://cbs-news-data.github.io/border-crossings/output/xml/border-crossings.xml</longLink>
+    <type>line</type>
+  </dataPoint>
+  <dataPoint>
+    <title>Reported measles cases, 2025</title>
+    <longLink>https://cbs-news-data.github.io/measles-tracker/output/xml/gradient.xml</longLink>
+    <type>map</type>
+  </dataPoint>
+  <dataPoint>
+    <title>Tornado reports Jan 1 - April 29</title>
+    <longLink>https://cbs-news-data.github.io/severe-weather-graphics/data/xml/tornadoes_chart.xml</longLink>
+    <type>bar</type>
+  </dataPoint>
 </links>

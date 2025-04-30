@@ -5,3 +5,9 @@ Weekly gas prices,https://raw.githubusercontent.com/cbs-news-data/price_tracker/
 "West Nile virus reported cases, 2024 (binned)",https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/binned.xml,map
 "West Nile virus reported cases, 2024 (gradient/labeled version)",https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/gradient.xml,map
 Pie chart example,https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/pie-chart.xml,pie
+Inflation year-over-year,https://cbs-news-data.github.io/BLS-data/data/inflation_yoy.xml,line
+Monthly unemployment rate,https://cbs-news-data.github.io/BLS-data/data/unemployment_rate.xml,line
+Monthly changes in employment,https://cbs-news-data.github.io/BLS-data/data/monthly_employment_change.xml,bar
+Historical illegal crossings along the U.S. southern border since 2022,https://cbs-news-data.github.io/border-crossings/output/xml/border-crossings.xml,line
+"Reported measles cases, 2025",https://cbs-news-data.github.io/measles-tracker/output/xml/gradient.xml,map
+Tornado reports Jan 1 - April 29,https://cbs-news-data.github.io/severe-weather-graphics/data/xml/tornadoes_chart.xml,bar
