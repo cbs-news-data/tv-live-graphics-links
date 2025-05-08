@@ -47,7 +47,7 @@
   </dataPoint>
   <dataPoint>
     <title>Reported measles cases, 2025</title>
-    <longLink>https://cbs-news-data.github.io/measles-tracker/output/xml/gradient.xml</longLink>
+    <longLink>https://cbs-news-data.github.io/measles-tracker/output/xml/binned.xml</longLink>
     <type>map</type>
   </dataPoint>
   <dataPoint>

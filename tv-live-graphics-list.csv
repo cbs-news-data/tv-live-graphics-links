@@ -9,5 +9,5 @@ Inflation year-over-year,https://cbs-news-data.github.io/BLS-data/data/inflation
 Monthly unemployment rate,https://cbs-news-data.github.io/BLS-data/data/unemployment_rate.xml,line
 Monthly changes in employment,https://cbs-news-data.github.io/BLS-data/data/monthly_employment_change.xml,bar
 Historical illegal crossings along the U.S. southern border since 2022,https://cbs-news-data.github.io/border-crossings/output/xml/border-crossings.xml,line
-"Reported measles cases, 2025",https://cbs-news-data.github.io/measles-tracker/output/xml/gradient.xml,map
+"Reported measles cases, 2025",https://cbs-news-data.github.io/measles-tracker/output/xml/binned.xml,map
 Tornado reports Jan 1 - April 29,https://cbs-news-data.github.io/severe-weather-graphics/data/xml/tornadoes_chart.xml,bar
