@@ -1,10 +1,7 @@
 ﻿title,longLink,type
 List of files,https://raw.githubusercontent.com/cbs-news-data/tv-live-graphics-links/refs/heads/main/links.xml,list_of_files
-Price of eggs,https://raw.githubusercontent.com/cbs-news-data/price_tracker/refs/heads/main/data/xml/prices_eggs.xml,bar
-Weekly gas prices,https://raw.githubusercontent.com/cbs-news-data/price_tracker/refs/heads/main/data/xml/weekly_gas_prices.xml,line
-"West Nile virus reported cases, 2024 (binned)",https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/binned.xml,map
-"West Nile virus reported cases, 2024 (gradient/labeled version)",https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/gradient.xml,map
-Pie chart example,https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/pie-chart.xml,pie
+Weekly gas prices,https://cbs-news-data.github.io/gas-prices/data/weekly_gas_prices.xml,line
+Mass shootings by year,https://cbs-news-data.github.io/gun-violence-graphics/data/xml/mass_shootings_bar_graph.xml,bar
 Inflation year-over-year,https://cbs-news-data.github.io/BLS-data/data/inflation_yoy.xml,line
 Monthly unemployment rate,https://cbs-news-data.github.io/BLS-data/data/unemployment_rate.xml,line
 Monthly changes in employment,https://cbs-news-data.github.io/BLS-data/data/monthly_employment_change.xml,bar

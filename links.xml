@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <links>
   <dataPoint>
-    <title>Price of eggs</title>
-    <longLink>https://raw.githubusercontent.com/cbs-news-data/price_tracker/refs/heads/main/data/xml/prices_eggs.xml</longLink>
-    <type>bar</type>
-  </dataPoint>
-  <dataPoint>
     <title>Weekly gas prices</title>
-    <longLink>https://raw.githubusercontent.com/cbs-news-data/price_tracker/refs/heads/main/data/xml/weekly_gas_prices.xml</longLink>
+    <longLink>https://cbs-news-data.github.io/gas-prices/data/weekly_gas_prices.xml</longLink>
     <type>line</type>
   </dataPoint>
   <dataPoint>
-    <title>West Nile virus reported cases, 2024 (binned)</title>
-    <longLink>https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/binned.xml</longLink>
-    <type>map</type>
-  </dataPoint>
-  <dataPoint>
-    <title>West Nile virus reported cases, 2024 (gradient/labeled version)</title>
-    <longLink>https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/gradient.xml</longLink>
-    <type>map</type>
-  </dataPoint>
-  <dataPoint>
-    <title>Pie chart example</title>
-    <longLink>https://cbs-news-data.github.io/mosquito-tracker/outputs/xml/pie-chart.xml</longLink>
-    <type>pie</type>
+    <title>Mass shootings by year</title>
+    <longLink>https://cbs-news-data.github.io/gun-violence-graphics/data/xml/mass_shootings_bar_graph.xml</longLink>
+    <type>bar</type>
   </dataPoint>
   <dataPoint>
     <title>Inflation year-over-year</title>
