@@ -11,9 +11,9 @@
     <type>bar</type>
   </dataPoint>
   <dataPoint>
-    <title>Inflation year-over-year</title>
-    <longLink>https://cbs-news-data.github.io/BLS-data/data/inflation_yoy.xml</longLink>
-    <type>line</type>
+    <title>Reported measles cases, 2025 to present</title>
+    <longLink>https://cbs-news-data.github.io/measles-tracker/output/xml/binned.xml</longLink>
+    <type>map (binned)</type>
   </dataPoint>
   <dataPoint>
     <title>Monthly unemployment rate</title>
@@ -21,23 +21,23 @@
     <type>line</type>
   </dataPoint>
   <dataPoint>
-    <title>Monthly changes in employment</title>
-    <longLink>https://cbs-news-data.github.io/BLS-data/data/monthly_employment_change.xml</longLink>
-    <type>bar</type>
-  </dataPoint>
-  <dataPoint>
-    <title>Historical illegal crossings along the U.S. southern border since 2022</title>
-    <longLink>https://cbs-news-data.github.io/border-crossings/output/xml/border-crossings.xml</longLink>
+    <title>Inflation year-over-year</title>
+    <longLink>https://cbs-news-data.github.io/BLS-data/data/inflation_yoy.xml</longLink>
     <type>line</type>
   </dataPoint>
   <dataPoint>
-    <title>Reported measles cases, 2025</title>
-    <longLink>https://cbs-news-data.github.io/measles-tracker/output/xml/binned.xml</longLink>
-    <type>map</type>
+    <title>Monthly home values</title>
+    <longLink>https://cbs-news-data.github.io/zillow-housing-data/data/output/zhvi_us.xml</longLink>
+    <type>line</type>
   </dataPoint>
   <dataPoint>
-    <title>Tornado reports Jan 1 - April 29</title>
-    <longLink>https://cbs-news-data.github.io/severe-weather-graphics/data/xml/tornadoes_chart.xml</longLink>
-    <type>bar</type>
+    <title>Home prices by state </title>
+    <longLink>https://cbs-news-data.github.io/zillow-housing-data/data/output/zhvi_by_state.xml</longLink>
+    <type>map (gradient)</type>
+  </dataPoint>
+  <dataPoint>
+    <title>Rent index over time</title>
+    <longLink>https://cbs-news-data.github.io/zillow-housing-data/data/output/zori_us.xml</longLink>
+    <type>line</type>
   </dataPoint>
 </links>

@@ -2,9 +2,9 @@
 List of files,https://raw.githubusercontent.com/cbs-news-data/tv-live-graphics-links/refs/heads/main/links.xml,list_of_files
 Weekly gas prices,https://cbs-news-data.github.io/gas-prices/data/weekly_gas_prices.xml,line
 Mass shootings by year,https://cbs-news-data.github.io/gun-violence-graphics/data/xml/mass_shootings_bar_graph.xml,bar
-Inflation year-over-year,https://cbs-news-data.github.io/BLS-data/data/inflation_yoy.xml,line
+"Reported measles cases, 2025 to present",https://cbs-news-data.github.io/measles-tracker/output/xml/binned.xml,map (binned)
 Monthly unemployment rate,https://cbs-news-data.github.io/BLS-data/data/unemployment_rate.xml,line
-Monthly changes in employment,https://cbs-news-data.github.io/BLS-data/data/monthly_employment_change.xml,bar
-Historical illegal crossings along the U.S. southern border since 2022,https://cbs-news-data.github.io/border-crossings/output/xml/border-crossings.xml,line
-"Reported measles cases, 2025",https://cbs-news-data.github.io/measles-tracker/output/xml/binned.xml,map
-Tornado reports Jan 1 - April 29,https://cbs-news-data.github.io/severe-weather-graphics/data/xml/tornadoes_chart.xml,bar
+Inflation year-over-year,https://cbs-news-data.github.io/BLS-data/data/inflation_yoy.xml,line
+Monthly home values,https://cbs-news-data.github.io/zillow-housing-data/data/output/zhvi_us.xml,line
+Home prices by state ,https://cbs-news-data.github.io/zillow-housing-data/data/output/zhvi_by_state.xml,map (gradient)
+Rent index over time,https://cbs-news-data.github.io/zillow-housing-data/data/output/zori_us.xml,line
